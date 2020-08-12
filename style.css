@@ -1,0 +1,48 @@
+h1{
+    color:#cffffe ;
+    text-shadow: #cffffe 10px 10px 5px;
+}
+body{
+  
+    text-align: center;
+    align-items: center;
+}
+
+
+.ok{
+    
+    
+    
+    padding: 20px;
+    -webkit-box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+-moz-box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+
+}
+
+img{
+    -webkit-box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+-moz-box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+box-shadow: 13px 13px 16px 1px rgba(202,229,247,1);
+}
+
+
+label{
+    margin-left: 20px;
+}
+
+button{
+    margin-left: 20px;
+}
+
+img:hover{
+    cursor: pointer;
+    background-color: turquoise;
+    box-shadow:turquoise 10px 10px 5px ;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: gray;
+    box-shadow: grey;
+}
